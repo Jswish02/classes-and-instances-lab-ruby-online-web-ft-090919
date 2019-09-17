@@ -1,4 +1,3 @@
-
  Dog class
 end
 
